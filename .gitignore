@@ -226,3 +226,4 @@ __marimo__/
 data/
 .env
 *.parquet
+test.py
