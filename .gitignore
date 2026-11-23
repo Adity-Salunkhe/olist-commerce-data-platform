@@ -227,3 +227,4 @@ data/
 .env
 *.parquet
 test.py
+requirement.txt
